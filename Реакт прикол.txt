@@ -1,0 +1,5 @@
+npx  create-react-app zadanie-3pogoda
+npm run start
+npm install
+
+
